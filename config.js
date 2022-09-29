@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
+global.Owner = ['923070051625]
+global.OwnerNumber = ['923025395467']
+global.ownertag = ['923070051625]
+global.BotName = "sedsatan"
+global.packname = "sed-bot"
+global.author = "By: satan"
+global.OwnerName = "satan"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.SupportGroupLink = "https://chat.whatsapp.com/LZDK7wAOMw0LDXeCgv6FkY"
 global.sessionName = "session"
 
 // Prefix //
